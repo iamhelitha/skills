@@ -1,0 +1,19 @@
+{
+  "name": "iamhelitha",
+  "owner": {
+    "name": "iamhelitha"
+  },
+  "metadata": {
+    "description": "Agent skills by iamhelitha."
+  },
+  "plugins": [
+    {
+      "name": "llm-prompt-injection-audit",
+      "source": "./",
+      "description": "Audit an AI chatbot's system prompt, API message assembly, tools, RAG and output handling for prompt injection and leakage risks (OWASP), and report strengths, weaknesses and fixes.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["security", "prompt-injection", "owasp", "llm", "audit"]
+    }
+  ]
+}

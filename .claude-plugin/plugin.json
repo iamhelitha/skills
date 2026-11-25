@@ -1,0 +1,9 @@
+{
+  "name": "llm-prompt-injection-audit",
+  "version": "1.0.0",
+  "description": "Audit an AI chatbot's system prompt, API message assembly, tools, RAG and output handling for prompt injection and leakage risks (OWASP).",
+  "author": { "name": "iamhelitha" },
+  "homepage": "https://github.com/iamhelitha/skills",
+  "repository": "https://github.com/iamhelitha/skills",
+  "license": "MIT"
+}
